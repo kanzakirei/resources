@@ -10,7 +10,7 @@
     {"predicate": {"custom_model_data":11}, "model": "minecraft:item/area"},
     {"predicate": {"custom_model_data":16}, "model": "minecraft:item/exit"},
     {"predicate": {"custom_model_data":17}, "model": "minecraft:item/report"},
-    {"predicate": {"custom_model_data":18}, "model": "minecraft:item/cancel"}
+    {"predicate": {"custom_model_data":18}, "model": "minecraft:item/cancel"},
     {"predicate": {"custom_model_data":19}, "model": "minecraft:item/ok"}
   ]
 }
