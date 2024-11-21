@@ -9,6 +9,7 @@
     {"predicate": {"custom_model_data":2}, "model": "minecraft:item/coin"},
     {"predicate": {"custom_model_data":3}, "model": "minecraft:item/ok"},
     {"predicate": {"custom_model_data":4}, "model": "minecraft:item/cancel"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/warning"},
     {"predicate": {"custom_model_data":50}, "model": "minecraft:item/payApp"},
     {"predicate": {"custom_model_data":51}, "model": "minecraft:item/storeApp"},
     {"predicate": {"custom_model_data":52}, "model": "minecraft:item/buyApp"},
