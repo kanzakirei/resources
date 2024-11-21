@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/send_coin"
+    "layer0": "minecraft:item/PayApp"
   }
 }

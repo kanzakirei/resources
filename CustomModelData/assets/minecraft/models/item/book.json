@@ -7,7 +7,7 @@
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "minecraft:item/phone"},
     {"predicate": {"custom_model_data":2}, "model": "minecraft:item/coin"},
-    {"predicate": {"custom_model_data":10}, "model": "minecraft:item/send_coin"},
+    {"predicate": {"custom_model_data":10}, "model": "minecraft:item/PayApp"},
     {"predicate": {"custom_model_data":11}, "model": "minecraft:item/area"},
     {"predicate": {"custom_model_data":16}, "model": "minecraft:item/exit"},
     {"predicate": {"custom_model_data":17}, "model": "minecraft:item/report"},
