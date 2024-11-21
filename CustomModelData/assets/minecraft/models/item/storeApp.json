@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/exit"
+    "layer0": "minecraft:item/storeApp"
   }
 }
