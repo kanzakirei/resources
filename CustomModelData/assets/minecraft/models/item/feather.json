@@ -5,14 +5,14 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/gun/aa12"},
+    {"predicate": {"custom_model_data":1}, "model": "pointblank:item/aa12"},
     {"predicate": {"custom_model_data":2}, "model": "pointblank:item/ak12"},
-    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/gun/ak47"},
-    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/gun/ak74"},
-    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/gun/an94"},
-    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/gun/ar57"},
-    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/gun/at4"},
-    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/gun/aug"},
-    {"predicate": {"custom_model_data":9}, "model": "minecraft:item/gun/aughbar"}
+    {"predicate": {"custom_model_data":3}, "model": "pointblank:item/ak47"},
+    {"predicate": {"custom_model_data":4}, "model": "pointblank:item/ak74"},
+    {"predicate": {"custom_model_data":5}, "model": "pointblank:item/an94"},
+    {"predicate": {"custom_model_data":6}, "model": "pointblank:item/ar57"},
+    {"predicate": {"custom_model_data":7}, "model": "pointblank:item/at4"},
+    {"predicate": {"custom_model_data":8}, "model": "pointblank:item/aug"},
+    {"predicate": {"custom_model_data":9}, "model": "pointblank:item/aughbar"}
   ]
 }
