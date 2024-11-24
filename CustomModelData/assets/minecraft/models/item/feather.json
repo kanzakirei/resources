@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/feather"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/phone"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/coin"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/ok"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/cancel"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/warning"},
+    {"predicate": {"custom_model_data":50}, "model": "minecraft:item/pay"},
+    {"predicate": {"custom_model_data":51}, "model": "minecraft:item/store"},
+    {"predicate": {"custom_model_data":52}, "model": "minecraft:item/buy"},
+    {"predicate": {"custom_model_data":53}, "model": "minecraft:item/report"}
+  ]
+}
