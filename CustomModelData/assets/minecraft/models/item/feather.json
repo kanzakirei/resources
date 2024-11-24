@@ -6,7 +6,7 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "minecraft:item/gun/aa12"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/gun/ak12"},
+    {"predicate": {"custom_model_data":2}, "model": "pointblank:item/ak12"},
     {"predicate": {"custom_model_data":3}, "model": "minecraft:item/gun/ak47"},
     {"predicate": {"custom_model_data":4}, "model": "minecraft:item/gun/ak74"},
     {"predicate": {"custom_model_data":5}, "model": "minecraft:item/gun/an94"},
