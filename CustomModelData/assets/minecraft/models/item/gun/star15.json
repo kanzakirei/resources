@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/star15.icon"
+    "layer0": "minecraft:item/gun/star15.icon"
   }
 }

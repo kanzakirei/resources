@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/glock17.icon"
+    "layer0": "minecraft:item/gun/glock17.icon"
   }
 }

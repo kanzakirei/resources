@@ -5,14 +5,14 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/phone"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/coin"},
-    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/ok"},
-    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/cancel"},
-    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/warning"},
-    {"predicate": {"custom_model_data":50}, "model": "minecraft:item/pay"},
-    {"predicate": {"custom_model_data":51}, "model": "minecraft:item/store"},
-    {"predicate": {"custom_model_data":52}, "model": "minecraft:item/buy"},
-    {"predicate": {"custom_model_data":53}, "model": "minecraft:item/report"}
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/gun/aa12"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/gun/ak12"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/gun/ak47"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/gun/ak74"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/gun/an94"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/gun/ar57"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/gun/at4"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/gun/aug"},
+    {"predicate": {"custom_model_data":9}, "model": "minecraft:item/gun/aughbar"}
   ]
 }

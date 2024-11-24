@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/uar10.icon"
+    "layer0": "minecraft:item/gun/uar10.icon"
   }
 }
