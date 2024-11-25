@@ -19,7 +19,7 @@
     {"predicate": {"custom_model_data":11}, "model": "minecraft:item/ammo/ammo762x51"},
     {"predicate": {"custom_model_data":12}, "model": "minecraft:item/ammo/ammo338lapua"},
     {"predicate": {"custom_model_data":13}, "model": "minecraft:item/ammo/ammo50bmg"},
-    {"predicate": {"custom_model_data":15}, "model": "minecraft:item/ammo/ammo12gauge"},
-    {"predicate": {"custom_model_data":16}, "model": "minecraft:item/ammo/ammolasercharge"}
+    {"predicate": {"custom_model_data":14}, "model": "minecraft:item/ammo/ammo12gauge"},
+    {"predicate": {"custom_model_data":15}, "model": "minecraft:item/ammo/ammolasercharge"}
   ]
 }

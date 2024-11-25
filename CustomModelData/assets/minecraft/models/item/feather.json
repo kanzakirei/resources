@@ -13,7 +13,7 @@
     {"predicate": {"custom_model_data":6}, "model": "pointblank:item/p30l"},
     {"predicate": {"custom_model_data":7}, "model": "pointblank:item/mk23"},
     {"predicate": {"custom_model_data":8}, "model": "pointblank:item/deserteagle"},
-    {"predicate": {"custom_model_data":9}, "model": "pointblank:item/aughbarhinor"},
+    {"predicate": {"custom_model_data":9}, "model": "pointblank:item/rhino"},
     
     {"predicate": {"custom_model_data":10}, "model": "pointblank:item/m4a1"},
     {"predicate": {"custom_model_data":11}, "model": "pointblank:item/m4a1mod1"},
