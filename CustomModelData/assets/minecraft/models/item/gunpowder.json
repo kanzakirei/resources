@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gunpowder"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "pointblank:item/ammo/ammo9mm"},
+    {"predicate": {"custom_model_data":2}, "model": "pointblank:item/ammo/ammo45acp"},
+    {"predicate": {"custom_model_data":3}, "model": "pointblank:item/ammo/ammo57"},
+    {"predicate": {"custom_model_data":4}, "model": "pointblank:item/ammo/ammo357"},
+    {"predicate": {"custom_model_data":5}, "model": "pointblank:item/ammo/ammo50ae"},
+    {"predicate": {"custom_model_data":6}, "model": "pointblank:item/ammo/ammo46"},
+    {"predicate": {"custom_model_data":7}, "model": "pointblank:item/ammo/ammo545"},
+    {"predicate": {"custom_model_data":8}, "model": "pointblank:item/ammo/ammo556"},
+    {"predicate": {"custom_model_data":9}, "model": "pointblank:item/ammo/ammo68"},
+    
+    {"predicate": {"custom_model_data":10}, "model": "pointblank:item/ammo/ammo762"},
+    {"predicate": {"custom_model_data":11}, "model": "pointblank:item/ammo/ammo762x51"},
+    {"predicate": {"custom_model_data":12}, "model": "pointblank:item/ammo/ammo338lapua"},
+    {"predicate": {"custom_model_data":13}, "model": "pointblank:item/ammo/ammo50bmg"},
+    {"predicate": {"custom_model_data":15}, "model": "pointblank:item/ammo/ammo12gauge"},
+    {"predicate": {"custom_model_data":16}, "model": "pointblank:item/ammo/ammolasercharge"}
+  ]
+}
