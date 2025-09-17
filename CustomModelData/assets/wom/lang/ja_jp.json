@@ -1,0 +1,208 @@
+{
+	"itemGroup.wom.items": "Minecraftの武器アイテム",
+
+	"enchantment.wom.invigoration": "活力",
+	"enchantment.wom.invigoration.desc": "レベルごとにスタミナが2増加します。",
+
+	"item.wom.golden_monocle": "黄金のモノクル",
+	"item.wom.golden_chrono": "黄金の懐中時計",
+	"item.wom.golden_mokassin": "黄金のモカシン",
+	"item.wom.golden_kit": "黄金のサスペンダー",
+
+	"item.wom.diamond_crown": "ダイヤモンドの冠",
+	"item.wom.diamond_armbracelet": "ダイヤモンドの腕輪",
+	"item.wom.diamond_legtopseal": "ダイヤモンドの上腿の護符",
+	"item.wom.diamond_legbottomseal": "ダイヤモンドの下腿の護符",
+
+	"item.wom.emerald_earrings": "エメラルドのイヤリング",
+	"item.wom.emerald_chakra": "エメラルドのチャクラ",
+	"item.wom.emerald_tasset": "エメラルドのタセット",
+	"item.wom.emerald_anklebracelet": "エメラルドのアンクレット",
+
+	"item.wom.netherite_mask": "ネザライトの仮面",
+	"item.wom.netherite_manicle": "ネザライトの手枷",
+	"item.wom.netherite_belt": "ネザライトの胴枷",
+	"item.wom.netherite_chains": "ネザライトの足枷",
+
+	"item.wom.agony": "苦痛の槍",
+	"item.wom.agony.tooltip": "軽く鋭い槍で致命的な一撃を放つことができます。\nジャンプ攻撃で2ブロックの高さを飛び越えることが可能です。",
+	"skill.wom.agony_plunge": "空中突撃",
+	"skill.wom.agony_plunge.tooltip": "\"空に消え、敵に突撃する。\"\n\n敵を攻撃すると最大3回までチャージ可能。\n最終ダメージはチャージ数に比例します。",
+
+	"item.wom.tormented_mind": "苦悩の斧",
+	"item.wom.tormented_mind.tooltip": "大量殺戮の象徴であり、冒涜的な武器。\nこの斧は元の持ち主の怒りを吸収し、次の持ち主に引き継ぎます。",
+	"skill.wom.true_berserk": "真の激怒",
+	"skill.wom.true_berserk.tooltip": "\"神すらも恐れる…\"\n\n苦悩の怒りによりスキルゲージが読めなくなります。",
+
+	"item.wom.ruine": "破滅の剣",
+	"item.wom.ruine.tooltip": "忘れ去られた知識で鍛造され、エンダーマンの力を宿した古代の武器。\nそのバランスと設計により、戦闘で最大の効率と精度を発揮します。",
+	"skill.wom.plunder_perdition": "魂の略奪",
+	"skill.wom.plunder_perdition.tooltip": "\"エンダーマンの儀式を行い、他者の本質を奪う。\"\n\nこのスキルは1スタックから始まり、最大10スタックまで蓄積可能。\nスタック数によってスキルの効果が変化します。\n2スタックで短時間速度向上、3スタックで最後に攻撃した敵にテレポート。\n10スタックでは剣を地面に突き刺し、周囲の敵に刃を召喚します。\n\n命中した敵ごとに最大スタミナの5%と体力を1回復します。\n（スイーピングエッジレベルごとに+1体力回復）\n10秒間の速度強化を得て、命中数に比例した速度強化を享受できます。",
+
+	"item.wom.satsujin": "殺刃",
+	"item.wom.satsujin.tooltip": "この刃には悪魔が封じ込められています。\n刃を強化して効果を高めますが、封印された悪魔はさらなる力を発揮できません。\n\nパッシブ: 非アクティブ状態が4秒続くと刃を納刀します。\n納刀攻撃後は短時間で再び納刀されます。",
+	"skill.wom.sakura_state": "桜状態",
+	"skill.wom.sakura_state.tooltip": "\"絶対的な静寂の中で放たれる最薄の斬撃\"\n\n発動時、前方に桜斬を繰り出します。\nスプリント中は敵を高速で通過し、斬撃を加えます。\n\n桜斬は最大8スタックまで蓄積可能。\nスイーピングエッジレベルごとに初期スタックが1/3増加します。\n4秒間桜斬を発動しないとスタックを全て失い、桜状態が終了します。\n桜斬は自動的に刃を納刀します。",
+
+	"item.wom.ender_blaster": "エンダーブラスター",
+	"item.wom.ender_blaster.tooltip": "この武器は時空を超え、その力を極限まで引き出せる者を探し求めています。",
+	"skill.wom.ender_blast": "エンダーブラスト",
+	"skill.wom.ender_blast.tooltip": "\"エンド世界の技術力の頂点。\"\n\nブラスターの装填装置には12のチャンバーがあります。\n運動エネルギーを蓄え、エンドパワーに変換します。\nトリガーを引くと、変換されたエンドパワーの半分がエンド弾丸に凝縮されます。\n残りは粒子加速装置で過充電され、弾丸を発射します。\nすべてのプロセスが一瞬で行われます…驚異的！",
+	"skill.wom.ender_fusion": "エンダーフュージョン",
+	"skill.wom.ender_fusion.tooltip": "\"エンド世界の技術力の頂点。\"\n\n2つのブラスター装填装置がそれぞれ12のチャンバーを持ち、合計24となります。\n蓄えられた運動エネルギーは両方のブラスターで共有され、それぞれエンドパワーに変換されます。\nトリガーを引くと、変換されたエンドパワーの半分がエンド弾丸に凝縮されます。\n残りは粒子加速装置で過充電され、弾丸を発射します。\nすべてのプロセスが一瞬で行われます…驚異的！",
+
+	"item.wom.herrscher": "支配者の剣",
+	"item.wom.herrscher.tooltip": "鋭く軽い剣で、戦闘で非常に優れた性能を発揮します。\nしかし、潜在能力を解放するには何かが必要なようです。",
+	"item.wom.gesetz": "法の盾",
+	"item.wom.gesetz.tooltip": "強力で耐久性のある盾で、最強の攻撃すらも防ぎます。\nしかし、潜在能力を解放するには何かが必要なようです。",
+	"skill.wom.regierung": "調和の力",
+	"skill.wom.regierung.tooltip": "\"攻撃性と防御性が完璧に調和したスキル。\"\n\n盾で攻撃を防ぐことでダメージを蓄積します。\n特定の攻撃にはカウンター攻撃のタイミングがあり、\nプレイヤーの前に盾がある場合に発動します。",
+
+	"item.wom.moonless": "月なき刃",
+	"item.wom.moonless.tooltip": "\"柄なき刃、影なき光…\n月なき夜。\"\n\n月なき刃は、レクトとヴェルソの2つの攻撃モードを持ちます。\nダッシュ攻撃でそれらを切り替えることができます。",
+	"skill.wom.lunar_eclipse": "月蝕",
+	"skill.wom.lunar_eclipse.tooltip": "\"光を止め、命を止め…希望を止める。\"\n\n前方の敵を攻撃し、7秒間発光状態にします。\n\nレクトモード:\n - 発光中の敵を攻撃するとダメージが蓄積し、発光レベルが増加します。\n - 盲目状態の敵を攻撃するとダメージが蓄積し、盲目状態が解除されます。\n\nヴェルソモード:\n - 発光中の敵を攻撃するとダメージが蓄積し、発光状態を解除します。\n - 盲目状態の敵を攻撃すると盲目レベルが増加します。\n\nレクトのジャンプ攻撃（クレッセント）:\n蓄積したダメージをターゲットに解放します。\nターゲットが倒された場合、最も近い敵に跳ね返り、ダメージが5%減少します。\n発光状態は跳ね返りの範囲を増加させ、盲目状態はダメージを増加させます。\n\nヴェルソのジャンプ攻撃（フルムーン）:\n蓄積したダメージの70%を範囲攻撃として解放します。\n盲目状態はダメージを増加させます。",
+
+	"item.wom.solar": "赫焉の剣",
+	"item.wom.solar.tooltip": "\"太陽の力を手のひらに。\"",
+	"skill.wom.solar_arcano": "赫焉の秘術",
+	"skill.wom.solar_arcano.tooltip": "\"星の全力を目撃せよ。\"\n\n各基本攻撃の後、短時間で特別なアイコンが表示されます。\nその際にスキルボタンを押すとタイミングよく赫焉の剣の攻撃を繰り出します。\n赫焉の剣の攻撃は「着火（ポルヴォラ）」と「爆発（チスピアール）」を交互に行います。\n\nポルヴォラ: ターゲットに火をつけます。\n既に燃えているターゲットの場合、着火レベルを1増加させます（最大2）。\n\nチスピアール: 燃えているターゲットの場合、火を消して\n着火レベルに応じたダメージを与えます（3 => 6 => 9、スイーピングエッジレベルごとに+1）。\n\n赫焉の剣にはユニークなスキルメーター「ヒートレベル」のメカニズムがあります。\nヒートレベルは、スキルで成功したチスピアールによって加熱速度が上がり、\nオレンジレベルを超えるとヒートレベルが上昇します。\n加熱速度はターゲットの着火レベルに依存します。\n\n防御を保持しつつスキルを押すと「赫焉の剣の儀式の炎」を発動できます。\n赫焉の剣の儀式の炎はヒートレベルを消費して強力な効果を発揮します:\n\nオスクリダード: 魂の炎で刃を包み、新しい形に変えます。\nこの形態ではすべての攻撃がチスピアールを発動します。\n加熱速度を赤色レベルに固定します。\n\nクレマトリオ: 前方に魂の炎を吹きつけます。\n炎の中にいる間、ターゲットを着火レベル3まで燃やします。\n\nインフィエルノ: 周囲のターゲットを球形の範囲で燃やします。\n範囲は10秒間拡大し続けます。\n範囲内のターゲットは2秒ごとにポルヴォラの効果を受けます（最大3）。\nインフィエルノ中はヒートレベルの変化速度が2倍になります。",
+
+	"item.wom.antitheus": "アンチテウス",
+	"item.wom.antitheus.tooltip": "\"最も忌まわしい方法で命を刈り取る。\"\n\n攻撃には20%の確率で6秒間のウィザー効果を付与。\n既にウィザー効果が付与されている場合、\nより強力なウィザー効果を再適用し、持続時間をリフレッシュします。\n\nスイーピングエッジのレベルごとに、ウィザー効果の付与確率が10%増加し、\n持続時間が2秒延長されます。",
+
+	"skill.wom.demonic_ascension": "悪魔の昇華",
+	"skill.wom.demonic_ascension.tooltip": "\"この大鎌があなたの体を支配し、\n恐ろしい行為を実行します....\"\n\n昇華:\n広範囲にわたり、ウィザー効果を適用しようと試みた後、\n影響を受けた敵に50%の浄化*を適用します。\n\n悪魔形態:\n基本持続時間は20秒 x (1 + (スイーピングエッジレベル) / 3) です。\nダッシュ攻撃はウィザー効果を適用する確率が2倍になりますが、\n複数回使用すると体力をどんどん消費します。\nその他の攻撃は、ウィザー状態の敵に命中すると80%の浄化*を発動します。\n\n*浄化: ターゲットのウィザー効果を刈り取り、\nその残りのダメージを一度に与えると同時に、その割合に応じて回復します。\n浄化はまた、ウィザー状態に応じて悪魔形態の持続時間を延長します。\n(+3秒 for ウィザーII、+6秒 for ウィザーIII)。",
+
+	"item.wom.demon_seal": "悪魔の封印",
+	"item.wom.demon_seal.tooltip": "古代の悪魔がこれに封印されています。",
+
+	"item.wom.eternal_fire_arcane": "永遠の炎の秘術",
+	"item.wom.eternal_fire_arcane.tooltip": "この本には果てしない炎を生み出す秘術が書かれています。\nタイトルには「無限太陽の具現」とあります。",
+
+	"item.wom.stone_greataxe": "石の大斧",
+	"item.wom.golden_greataxe": "金の大斧",
+	"item.wom.iron_greataxe": "鉄の大斧",
+	"item.wom.diamond_greataxe": "ダイヤモンドの大斧",
+	"item.wom.netherite_greataxe": "ネザライトの大斧",
+
+	"item.wom.wooden_staff": "木の杖",
+	"item.wom.stone_staff": "石の杖",
+	"item.wom.golden_staff": "金の杖",
+	"item.wom.iron_staff": "鉄の杖",
+	"item.wom.diamond_staff": "ダイヤモンドの杖",
+	"item.wom.netherite_staff": "ネザライトの杖",
+
+	"skill.wom.charybdis": "渦と狭間",
+	"skill.wom.charybdis.tooltip": "スタミナを消費して8回の連続攻撃を行う旋風を繰り出します。\nスイーピングエッジでスタミナ消費を軽減可能。\n",
+
+	"skill.wom.ender_step": "エンダーステップ",
+	"skill.wom.ender_step.tooltip": "危険から素早くテレポートで離れます。このスキルの実行中、プレイヤーは物理攻撃に対して無敵になります。",
+
+	"skill.wom.ender_obscuris": "エンダーオブスクリス",
+	"skill.wom.ender_obscuris.tooltip": "最後に攻撃したターゲットの背後に、半径30ブロック以内でテレポートします。\n\nこのスキルの実行中、プレイヤーは物理攻撃に対して無敵になります。",
+
+	"skill.wom.shadow_step": "シャドウステップ",
+	"skill.wom.shadow_step.tooltip": "§o影に沈む。§r\n影の中を移動すると空間が歪み、光よりも速く移動できるようになります。\n\nこのスキルの実行中、プレイヤーは物理攻撃に対して無敵になります。",
+
+	"skill.wom.bull_charge": "ラヴァジャーフォース",
+	"skill.wom.bull_charge.tooltip": "前方に突進し、進路上のすべての存在を押しのけます。\n\n突進中はスタン効果に対して免疫があり、受けるダメージが40%軽減されます。",
+
+	"skill.wom.precise_roll": "精密ロール",
+	"skill.wom.precise_roll.tooltip": "速く、遠く、スタミナ消費を抑えたロール。\n\n真のエキスパートのようにアクロバティックなロールを実行します。",
+
+	"skill.wom.dodge_master": "回避の達人",
+	"skill.wom.dodge_master.tooltip": "キャスト後0.30秒以内にダメージを受けそうになった場合、自動的に短い距離を回避します。\n最初の回避後、0.50秒以内の攻撃をすべて回避し、その後も成功した回避ごとに続けて回避します。\n\n複数回のキャストでスタミナ消費が倍増します。",
+
+	"skill.wom.time_travel": "タイムトラベル",
+	"skill.wom.time_travel.tooltip": "キャスト時に現在の位置と体力を記録します。\n5秒後に記録された位置にテレポートし、この間に受けたダメージの半分が回復します。\n\n再キャストで早めにテレポート、またはスニークでキャンセル可能。",
+
+	"skill.wom.punishment_kick": "制裁の蹴り",
+	"skill.wom.punishment_kick.tooltip": "前方に力強い蹴りを放ちます。\n強力なスタン効果を引き起こし、敵の攻撃中に使用するとブラックアウト効果を与えることがあります。",
+
+	"skill.wom.counter_attack": "カウンター攻撃",
+	"skill.wom.counter_attack.tooltip": "パーフェクトガードが発動すると、武器攻撃に基づくカウンター攻撃を行います。\n\n使用可能な武器タイプ: %s",
+
+	"skill.wom.perfect_bulwark": "完全なる盾壁",
+	"skill.wom.perfect_bulwark.tooltip": "ガード姿勢を維持すると、進行的に低スタミナ消費で全方向からの攻撃を防ぎます。\n攻撃を5回受けた後にガードを解除すると、敵を押しのける衝撃波を放ちます。\n\n使用可能な武器タイプ: %s",
+
+	"skill.wom.vengeful_parry": "復讐の受け流し",
+	"skill.wom.vengeful_parry.tooltip": "2秒間のガード姿勢に入ります。\nその間、スタミナを消費せずにすべての攻撃を防ぎます。\nその後、次の攻撃で受けたすべてのダメージを返すことができます。\n再キャストでダメージをリフレッシュします。\n1秒のクールダウン。\n\n使用可能な武器タイプ: %s",
+
+	"skill.wom.soul_protection": "魂の守護",
+	"skill.wom.soul_protection.tooltip": "ガードの能力を失います。\n\n毎秒、1%のダメージ無効化を提供する魂を召喚します。\n自身の魂は20%のダメージ無効化を提供します。\n\nダメージを受けると魂が3つ消失します。",
+
+	"skill.wom.shulker_cloak": "シュルカークローク",
+	"skill.wom.shulker_cloak.tooltip": "ガードの能力を失います。\n\n5秒ごとにシュルカー耐性レベルを1つ獲得します。\n\nシュルカー耐性レベルが少なくとも1以上ある場合、60%のダメージを無効化します。\n\nダメージを受けるとレベルが1減少します。",
+
+	"skill.wom.arrow_tenacity": "矢の耐性",
+	"skill.wom.arrow_tenacity.tooltip": "矢によるダメージからのスタンを防ぎます。このスキルは永続的であり、別のパッシブスキルと同時に使用可能です。ただし、死亡時には現在のパッシブスキルのみが保持されます。",
+
+	"skill.wom.pain_anticipation": "痛みの予感",
+	"skill.wom.pain_anticipation.tooltip": "2秒間アクションを行わない場合、「予感」を得ます。\nこれにより、次の2.0秒間のアクション中にスタン免疫を獲得し、受けるダメージを40%軽減します。",
+
+	"skill.wom.latent_retribution": "潜在的報復",
+	"skill.wom.latent_retribution.tooltip": "4秒間アクションを行わない場合、「報復」を得ます。\nこれにより、次の4.0秒間のアクション中にスタン免疫を獲得し、与えるダメージが40%増加します。",
+
+	"skill.wom.vampirize": "吸血",
+	"skill.wom.vampirize.tooltip": "与えたダメージの10%を回復します。",
+
+	"skill.wom.critical_knowledge": "クリティカル知識",
+	"skill.wom.critical_knowledge.tooltip": "クリティカルダメージを%s%%増加させる%s%%の確率を得ます。\nファイアプロテクションエンチャントのレベルごとにクリティカル率が5%%増加し、\nブラストプロテクションエンチャントのレベルごとにクリティカルダメージが15%%増加します。",
+
+	"skill.wom.heart_shield": "ハートシールド",
+	"skill.wom.heart_shield.tooltip": "20ポイントのシールドを得ます。\nシールドは%s秒間アクションを行わないと回復し、毎%s秒に1ポイントずつ回復します。\n\nシールドの回復速度はプロテクションエンチャントで向上します。",
+
+	"skill.wom.mindset": "精神集中",
+	"skill.wom.mindset.tooltip": "体力が80%以上の場合、精神集中を得て、\n与えるダメージが30%増加し、受けるダメージが20%減少します。",
+
+	"skill.wom.adrenaline": "アドレナリン",
+	"skill.wom.adrenaline.tooltip": "体力が20%未満の場合、アドレナリンを得て、\n与えるダメージが60%増加し、受けるダメージが40%減少します。",
+
+	"skill.wom.dancing_blade": "舞踊の刃",
+	"skill.wom.dancing_blade.tooltip": "「死の響きに合わせて踊れ」\n\n4回目の成功した攻撃ごとに80%の追加ダメージを獲得します。",
+
+	"skill.wom.meditation": "瞑想",
+	"skill.wom.meditation.tooltip": "移動せずに2秒間スニークして瞑想状態に入ります。\n瞑想を長く続けるほど、バフの効果時間が延びます。\n\n瞑想には3つの段階があり、それぞれ異なる効果を提供します:\n\n 段階1: 与えるダメージが40%増加。\n\n 段階2: 攻撃速度が30%増加し、移動速度Iを付与。\n\n 段階3: 被ダメージが50%軽減され、再生Iを付与。",
+
+	"skill.wom.spider_techniques": "蜘蛛の技法",
+	"skill.wom.spider_techniques.tooltip": "壁の上を走る能力を得ます。\n\nスプリントを押しながら壁に向かってジャンプすることで、壁の上を走ることができます。\nスプリントを離すと落下し、移動入力を離すとゆっくり滑ります。\nスニークで滑り落ちをさらに減速できます。\n\n視点を調整することで、壁から壁へジャンプできます。\nジャンプする位置に応じて、壁ジャンプの高さが調整されます。\n",
+
+	"skill.wom.aqua_maneuvre": "水中機動",
+	"skill.wom.aqua_maneuvre.tooltip": "泳ぐ能力を向上させます。\n\n水中ではより速く、また水面上では少し速く移動できます。\n\nジャンプボタンを離すことで、水中で推進したり、水面上でバタフライ泳法を行えます。\n",
+
+	"skill.wom.bi_phased": "エクトプラズムフェーズ",
+	"skill.wom.bi_phased.tooltip": "5回の攻撃を成功裏に回避すると、\n20秒間エクトプラズムフェーズに入ります。\n\nエクトプラズムフェーズ: 攻撃があなたをすり抜けます。\n",
+
+	"skill.wom.voodoo_magic": "呪術の魔法",
+	"skill.wom.voodoo_magic.tooltip": "体力が減少するとスタミナが半分回復し、\nスタミナが減少すると体力が半分回復します。\n\nスニークで体力をスタミナに2倍の速度で変換できます。\n\nスタミナの自動回復を無効化します。\n",
+
+	"skill.wom.back_and_forth": "バックアンド...フォース！",
+	"skill.wom.back_and_forth.tooltip": "一定距離を取ることで、ターゲットをブラックアウトさせる能力を得ます。\n\nターゲットを1回攻撃してから距離を取ります。\nターゲットとの距離が20を超えると、次のダッシュ攻撃は強力なスタンとなり、ターゲットを5秒間ブラックアウトさせます。\n",
+
+	"skill.wom.damage": "%s ダメージ",
+	"skill.wom.percent_of_target_lost_health": " + %s 対象が失った体力",
+
+	"damage.wom.target_max_health": " + %s 対象の最大体力",
+	"damage.wom.target_current_health": " + %s 対象の現在の体力",
+	"damage.wom.sweeping_edge_enchant": " + %s (スイーピングエッジ %s レベル)",
+
+	"death.attack.demon_fee": "悪魔が%1$sの魂を奪った…",
+	"death.attack.ender_bullet": "%1$sは%2$sのエンダー弾丸で命を落とした。",
+	"death.attack.timed_katana_slashes": "%1$sは知らなかった…彼はすでに死んでいた！",
+	"death.attack.perfect_bulkwark_shockwave": "%1$sは霊界へと押し流された！",
+	"death.attack.lunar_eclipse": "ルナーエクリプスアルカナは%1$sには強すぎた。",
+
+	"death.attack.demon_fee.item": "悪魔が%1$sの魂を奪った…",
+	"death.attack.ender_bullet.item": "%1$sは%2$sのエンダー弾丸で命を落とした。",
+	"death.attack.timed_katana_slashes.item": "%1$sは知らなかった…彼はすでに死んでいた！",
+	"death.attack.perfect_bulkwark_shockwave.item": "%1$sは霊界へと押し流された！",
+	"death.attack.lunar_eclipse.item": "ルナーエクリプスアルカナは%1$sには強すぎた。",
+
+	"gamerule.spawnStrongerMobs": "距離が遠いほど強力なモブを出現させる",
+	"gamerule.strongerMobsDropEmeralds": "強力なモブがエメラルドをドロップする",
+	"gamerule.strongerMobsMoreEXP": "強力なモブがより多くの経験値を与える",
+	"gamerule.skeletonMoreMelee": "近接攻撃が増加したスケルトン",
+
+	"entity.wom.lupus_rex": "金狼"
+}
